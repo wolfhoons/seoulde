@@ -52,7 +52,7 @@ section{
   height: 85px;
 }
 .navbottom__logo{
-  background: url(/imgs/logo_white.png) no-repeat;
+  background: url(imgs/logo_white.png) no-repeat;
   height: 38px;
   width: 102px;
 }
@@ -121,7 +121,7 @@ section{
 .introleft__box--logo{
   width: 67px;
   height: 25px;
-  background: url(/imgs/logo_white.png) center center;
+  background: url(imgs/logo_white.png) center center;
   background-size: cover;
   margin-bottom: 25px;
 }
@@ -281,7 +281,7 @@ section{
   width: 100%;
   
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-  url(/imgs/footer-bg-1-1.jpg);
+  url(imgs/footer-bg-1-1.jpg);
 }
 .newsletter__title{
   font-size:20px; 
